@@ -4,6 +4,7 @@
 
 * Learned a new framework 'Yii'
 * Created yii template hosted locally on MAMP/WAMP
+* Learned how to create models(active records) and controllers using the gii module
 * Created a controller to get semesters, assignments and holidays, which is then passed to a view
 * Created the view to display semesters, assignments and holidays in a table
 * Created a dropdown which allows you to select different semesters
