@@ -9,4 +9,5 @@
 * Created a dropdown which allows you to select different semesters
 * Coded the landing page to display current day and week in the current semester
 * Created an api which access and shows all data in the database in json format
+* Codeception
 * Learned how to use github pages and jekyll to make this portfolio
