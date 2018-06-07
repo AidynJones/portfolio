@@ -36,4 +36,9 @@ Over the course of this week I got assignments showing up next to the weeks they
 
 ## 28/05/18(Week 8)
 
-This week we got the login system working by checking the database for a created user, also fixed a lot of bugs like multiple assignments on same week messing up table and unneeded tabs in navbar.  A lot of this week was spent working on this portfolio 
+This week we got the login system working by checking the database for a created user, also fixed a lot of bugs like multiple assignments on same week messing up table and unneeded tabs in navbar.  A lot of this week was spent working on this portfolio.
+
+
+## 04/06/18(Week 9)
+
+This week I worked on getting a working api for use by the learning analytics project or use if this software is used in Project to allow the software to be integrated with other softwares.  My api currently only provides all data from the database in json, I coded a create method for the api too but haven't included it yet as I am unsure if it will be needed.
