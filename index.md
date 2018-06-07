@@ -24,15 +24,15 @@ The database has now been created so everyone started to work on pieces of the p
 
 ## 07/05/18(Week 5)
 
-I spent this week moving all the logic in the code out of the view and into the controller, I also got a drop down working to allow for different semesters to be shown.
+This week I attempted to get a dropdown that would allow for different semesters to be chosen to view.  This required me to do a lot of research on how yii handles forms, I also had a lot of trouble with getting the controller to send the view the information it needed.  Ended up needing a new semester object to passed through and use the yii dropdown handler to display information(semester name) from the database.
 
 ## 14/05/18(Week 6)
 
-Over the course of this week I got assignments showing up next to the weeks they were assigned and holidays showing up next to the week they happen in.  The ability to add data to the database like semesters and assignments was add to the functionality of the site.
+I spent this week cleaning up the view I created to show the semester information, originally all logic was thrown into the view but I needed to move this into the controller.  So I had to do some research on how the controller interacts with the view in yii and the syntax needed for what I wanted to accomplish.
 
 ## 21/05/18(Week 7)
 
-
+Over the course of this week I got assignments showing up next to the weeks they were assigned and holidays showing up next to the week they happen in.  The ability to add data to the database like semesters and assignments was add to the functionality of the site.
 
 ## 28/05/18(Week 8)
 
