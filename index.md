@@ -42,3 +42,7 @@ This week we got the login system working by checking the database for a created
 ## 04/06/18(Week 9)
 
 This week I worked on getting a working api for use by the learning analytics project or use if this software is used in Project to allow the software to be integrated with other softwares.  My api currently only provides all data from the database in json, I coded a create method for the api too but haven't included it yet as I am unsure if it will be needed.
+
+## 11/06/18(Week 10
+
+Showed Adon the api that I had created which currently pulls all data out of the database, he wants me to work on a variation where you can search via url api/<course code> and recieve name, email and username from database for all students in that course.  This requires the database to have a new field added to Course table.
