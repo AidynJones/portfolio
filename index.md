@@ -12,7 +12,7 @@ We decided we were going to write the Semester tracker in PHP because our client
 
 ## 09/04/18 (Week 3)
 
-We met up with Adon and he told us want he wanted an api to share the database with other projects and to talk to Elise about anything she wanted.  We made the final decision to go with yii framework, built a basic template yii project and deployed it locally through MAMP/WAMP.  Used this week to look at more advanced yii tutorials and got to know way around basic template file layout, config and database.
+We met up with Adon and he told us want he wanted an api to share the database with other projects and to talk to Elise about anything she wanted.  We made the final decision to go with yii framework, built a basic template yii project and spent some time trying to host it locally.  Used this week to look at more advanced yii tutorials and got to know way around basic template file layout, config and database.
 
 ## 23/04/18 (Holiday)
 
@@ -20,18 +20,19 @@ Not much was done over this week and last as it has been the holidays, I was sic
 
 ## 30/04/18 (Week 4)
 
-The database has now been created so everyone started to work on pieces of the project, my job was to get the data from the database and display it on the website.  I spent this week looking into Gii and how I could use it to create models and views which was pretty simple once I knew what I was doing.  I also got the homepage to generate the current day and week of the semester.
+Finally got the yii site hosted on WAMP at home and spent bit trying to host it on MAMP on the polytech computers.  I then taught the rest of the group the basics of how Yii works, where to find the main files that might need edited in the folder tree.  I also showed them how to setup the database and host it locally so they could see the changes they had made when editing the files.
 
 ## 07/05/18 (Week 5)
 
-This week I attempted to get a dropdown that would allow for different semesters to be chosen to view.  This required me to do a lot of research on how yii handles forms, I also had a lot of trouble with getting the controller to send the view the information it needed.  Ended up needing a new semester object to passed through and use the yii dropdown handler to display information(semester name) from the database.
+The database has now been created so everyone started to work on pieces of the project, my job was to get the data from the database and display it on the website.  I spent this week looking into Gii and how I could use it to create models and views which was pretty simple once I knew what I was doing.  I also got the homepage to generate the current day and week of the semester.
 
 ## 14/05/18 (Week 6)
 
-I spent this week cleaning up the view I created to show the semester information, originally all logic was thrown into the view but I needed to move this into the controller.  So I had to do some research on how the controller interacts with the view in yii and the syntax needed for what I wanted to accomplish.
+This week I attempted to get a dropdown that would allow for different semesters to be chosen to view.  This required me to do a lot of research on how yii handles forms, I also had a lot of trouble with getting the controller to send the view the information it needed.  Ended up needing a new semester object to passed through and use the yii dropdown handler to display information(semester name) from the database.
 
 ## 21/05/18 (Week 7)
 
+I spent this week cleaning up the view I created to show the semester information, originally all logic was thrown into the view but I needed to move this into the controller.  So I had to do some research on how the controller interacts with the view in yii and the syntax needed for what I wanted to accomplish.
 Over the course of this week I got assignments showing up next to the weeks they were assigned and holidays showing up next to the week they happen in.  The ability to add data to the database like semesters and assignments was add to the functionality of the site.
 
 ## 28/05/18 (Week 8)
