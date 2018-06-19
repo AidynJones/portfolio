@@ -8,11 +8,11 @@ Got put in the Semester Tracker project, spent the week Storming and norming, ge
 
 ## 02/04/18 (Week 2)
 
-We decided we were going to write the Semester tracker in PHP because our client Elise had already made an attempt at making it.  We used this week to have a look at the yii framework and build a basic project in it to see most of the fundamentals of it.
+We decided we were going to write the Semester tracker in PHP because our client Elise had already made an attempt at making it.  We used this week to have a look at the yii framework and build a basic project in it to see most of the fundamentals of it.  We also set up a meeting with Adon to talk about what he wants from this software.
 
 ## 09/04/18 (Week 3)
 
-Made final decision to go with yii framework, built a basic template yii project and deployed it locally through MAMP/WAMP.  Used this week to look at more advanced yii tutorials and got to know way around basic template file layout, config and database.
+We met up with Adon and he told us want he wanted an api to share the database with other projects and to talk to Elise about anything she wanted.  We made the final decision to go with yii framework, built a basic template yii project and deployed it locally through MAMP/WAMP.  Used this week to look at more advanced yii tutorials and got to know way around basic template file layout, config and database.
 
 ## 23/04/18 (Holiday)
 
@@ -20,7 +20,7 @@ Not much was done over this week and last as it has been the holidays, I was sic
 
 ## 30/04/18 (Week 4)
 
-The database has now been created so everyone started to work on pieces of the project, my job was to get the data from the database and display it on the website.  Also to generate the current day and week of the semester on the homepage.
+The database has now been created so everyone started to work on pieces of the project, my job was to get the data from the database and display it on the website.  I spent this week looking into Gii and how I could use it to create models and views which was pretty simple once I knew what I was doing.  I also got the homepage to generate the current day and week of the semester.
 
 ## 07/05/18 (Week 5)
 
