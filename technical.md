@@ -39,7 +39,7 @@ I ended up coding this mainly using pure php functions to find the current semes
 
 This took quite a lot of time because I struggled quite a bit to begin with to find some good documentation or resources that told me how to accomplish this in Yii.  It required use of the module generator in Gii which we had not used in the project so far and making a brand new controller and view which access the database, the code to convert the data into json took me a while to find, I ended up finding it in a 20 minute youtube video with no talking, only text written in a text editor with less than 15000 views.  I also wrote the code to create a new entry in the database for semester, but after talking Adon he only wanted read access so I didn't include it.
 
-![Image of api code](images/api.png)
+![Image of api code](images/api.PNG)
 
 ## Codeception
 
