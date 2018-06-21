@@ -22,6 +22,10 @@ At the beginning I was quite confused by Jordans software which allows us to rep
 
 ### Evidence of Learning
 
+![Image of discord](images/discord1.PNG)
+![Image of discord](images/discord2.PNG)
+![Image of bugtracker](images/bugtrack.PNG)
+
 ## Leadership
 ### Thoughts
 When we got put into a group we established roles based on personality and skills, Jordan took charge and became the leader focusing on the backend and database side of the software, I was then assigned to look into learning the Yii framework and see if it would work to build our software around.  I built a basic template site powered by the Yii framework and we decided to go with that for our software, over the first few weeks I took charge over how the site was built and in what direction we would take it to produce the product that the client was after, this was because I was the only one who had learned the layout of the site files and how Yii was written and worked.  
@@ -39,6 +43,8 @@ A couple of times throughout the semester mainly at the start not much work was 
 
 ### Evidence of Learning
 
+![Image of email](images/email.PNG)
+
 ## Team Work
 ### Thoughts
 Going into this project as a team we took a wee while to begin working together, not much work got done in the starting weeks, no one really knew what they were doing and it wasn't until I had created a starting site that people actually started contributing.  However once people had started learning the new framework and roles in the group had been established the project started coming along nicely.  We would meet up a couple of times a week and get progress reports and talk about what we were planning on working on next, sometimes somebody wouldn't be able to do or continue with the user story because someone else needed to do there job first, for example I couldn't display semesters until Jordan added a new attribute to the semester table in the database, but I talked to him about this and it was done within the day and I could continue with my job.
@@ -54,6 +60,8 @@ Looking back over this semester I believe that we failed to completely fulfill t
 Although we didn't fully complete these agile principles I still feel like our group made a very good effort in supporting each other and allowing people comfort in asking for help, if we were more angry at failure to complete jobs this might have led to unhappy people producing ugly code to make simple things work which just needed a fresh eye to have a look over the code.  
 
 ### Evidence of Learning
+
+![Image of top devs](images/TopDevs.PNG)
 
 ## Time Management
 ### Thoughts
@@ -77,6 +85,8 @@ At the beginning my time management was quite bad because I had heaps of assignm
 I really liked Jordans bug tracking site because it allowed you to see if you have been completing tickets and actively working on the project over time.  If I were to do this project again I would record more of what I had done because at the beginning I didn't really keep track of the stuff I was doing, I would only record stuff if I got something major to work but I should have been recording even the smallest things and if I attempted something but didn't get it to work.
 
 ### Evidence of Learning
+
+![Image of git history](images/git.PNG)
 
 ## Motivating Self and Others
 ### Thoughts
