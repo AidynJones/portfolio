@@ -13,6 +13,7 @@ At the start of our project we were quite confused as to who our client was beca
 Our main source of communicating what were working on, bugs we found or fixed and where we recorded our user stories was a server Jordan runs and hosts which proved to be a really good way to keep up to date with who was doing what and if we were on track in each sprint and overall from start to finish of the time spent doing the project.
 
 ### Reflection
+
 Looking back over the semester I believe that the choice to go with discord was not the best choice, I found that when someone sent a message I wouldn't always recieve a notification on my phone and I am hardly logged in on my PC.  When I sent a message I found that there usually wasn't a quick response and I had to wait before contact was intiated.  We also never used the voice channel which we orginally planed to host conference calls on, in my opinion I believe that we should have used either slack or made use of the group chat function in facebook messenger.
 
 I think that our efforts on scrums wasn't as good as it should have been because as a group no one really pushed for these to happen and they usually only took place in class.  This meant that if someone got stuck they had to wait a few days before they could get any help to overcome the problem they were stuck on.  There was also no promise that everyone would show up to class, although this didn't happen too much sometimes it could be quite inconvenient and lead to tension in the group.
