@@ -27,13 +27,20 @@ I created a new index view for semester which I generated with gii, I then impor
 
 I had written all the logic in the view which led to a lot of code repetition and made it hard to expand on the code and add extra features, so I spent a week looking into generating a controller with Gii and using that to pull all the information I needed out of the database and sorting it the way I needed it.  I then passed all the data and extra variables I had created (like a variable to track which semester we were currently in) into the view, this cleaned up the view and made it a lot more readable.  Later on in the semester we needed to add assignments and holidays so I pulled their data out of the models in the controller and also passed them to the view, because I had cleaned the code this was a very quick and easy process and kept the logic that I added out of the view code.
 
+![Image of controller code](images/controller1.PNG)
+![Image of controller code](images/controller2.PNG)
+
 ## Created a dropdown which allows you to select different semesters
 
 Getting a dropdown to allow the user to choose which semester was being displayed took me a while to get working, this was especially hard because Yii uses its own layout for forms which required a model to be passed from the controller and used to create the dropdown with the help of the built in arrayhelper and mapping functions.  The main problem I had with this was that the model needed to be a new empty model of the semester and I was passing it all the data from the semester model, once I had fixed this I pretty much had it all working only needing an extra field in the database table to show what would appear in the dropdown (e.g. Semester 1 - 2018).
 
+![Image of dropdown form code](images/dropdown1.PNG)
+
 ## Coded the landing page to display current day and week in the current semester
 
 I ended up coding this mainly using pure php functions to find the current semester, after pulling all semesters out of the database I had to foreach through them to find the current semester we were in with the use of the DateTime object and getting the current date.  Once I had the current semester I had to go through that with an incrementing count to find the current week, getting the current day just required formatting of the already obtained current DateTime.
+
+![Image of homepage code](images/homepage.PNG)
 
 ## Created an api which access and shows all data in the database in json format
 
