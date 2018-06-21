@@ -57,6 +57,9 @@ Although we didn't fully complete these agile principles I still feel like our g
 
 ## Time Management
 ### Thoughts
+
+I feel like for the most of this semester I managed my time quite well, I finished all the sprints I was assigned on time and kept a strong pace consistantly 
+
 ### Reflection
 ### Evidence of Learning
 
