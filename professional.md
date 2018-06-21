@@ -58,7 +58,11 @@ Although we didn't fully complete these agile principles I still feel like our g
 ## Time Management
 ### Thoughts
 
-I feel like for the most of this semester I managed my time quite well, I finished all the sprints I was assigned on time and kept a strong pace consistantly 
+I feel like for the most of this semester I managed my time quite well, I finished all the sprints I was assigned on time and kept a strong pace consistantly.  At the beginning our group had quite a slow start because we were learning a new framework and a few of our members didn't even know PHP so they had to learn that as well, so we spent a good three weeks trying to learn what these had to offer and how to use them.  At the end of the first half of semester we hadn't written any new code and a few group members still hadn't learned Yii so I had to spend a good hour or two trying to explain some basic things that Yii offered which were very handy like the Gii generator and methods found in the vendor.
+
+As a group we talked with our client Elise and decided on a timeframe for each sprint to be 1 week so we would all take on tasks each Friday and try and have them finished by the following Friday.  Over the course of this project we managed to finish 6 sprints starting from the 4th week to the 11th week, I believe we had a small hiccup during one sprint where we couldn't get the login checking working properly which held us back until that got sorted.  Apart from that we tended to have a new working version every week to show our client which kept her happy and allowed for her to critique the software and tell us what she didn't like or what she wanted added in.  Mostly she was pretty happy with what she saw and let us work freely on what we believed was the best way to make the software which would allow for easy expansion to add the user stories that we currently had in the backlog.
+
+Personally I tried to do a bit of work on the site most days of the week, I didn't tend to do much work between the Friday and Tuesday classes though because I have work all weekend and tend to slack of during this time.  I would git push as often as possible so the rest of my group could see the progress I was making at all times, and if I needed help I could ask them to pull it down and have a look at the code.  
 
 ### Reflection
 ### Evidence of Learning
