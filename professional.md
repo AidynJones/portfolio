@@ -89,6 +89,10 @@ Everytime a huge problem got fixed or a big job got finished this would lead to 
 
 ### Reflection
 
-In hindsight I think that I could have done a lot more in terms of motivation, I could have participated in the discord chat a bit more and given constructive criticism on the work that people were posting.  
+In hindsight I think that I could have done a lot more in terms of motivation, I could have participated in the discord chat a bit more and given constructive criticism on the work that people were posting.  If I had showed more enthusiasm for my group members work this would have made them feel better about what they had done and given them the motivation to do even more work.
+
+I believe that I tried to motivate others and succeeded a few times when they were really stuck by helping them complete what they were stuck on and given them a few easier jobs which would give them quick success and give them a sense of accomplishment which in turn allowed them to complete harder tasks and feel even more accomplished.
+
+The motivation I gave myself was pretty good as I tended to have constant motivation throughout the whole semester getting boosted everytime I completed a task.  The only time I felt my motivation drop was during the holidays especially when I got sick and didn't want to leave my bed, and when I was overcame with upcoming exams and assignment deadlines.
 
 ### Evidence of Learning
