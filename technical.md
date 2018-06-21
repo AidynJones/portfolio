@@ -16,12 +16,18 @@ At the beginning of the project we were prompted by our client(Elise) to conside
 ## Created Yii template hosted locally on MAMP/WAMP
 To get my Yii project to run I had to run it on a server, I chose to use a local server hosting software WAMP which I downloaded at home.  This was quite confusing at first and I had some trouble connecting to the phpmyadmin database that came with the software, which turned out I needed to configure the db.php file in the config folder of the site to use the username and password it was automatically setup with root/root.  However when I tried to use the project on the polytechnic computers they didn't have WAMP, I found that MAMP was installed on the computers and then had to play around with and learned that software, after configuring the document root the web server was pointing at I was able to run and view the project allowing me to do work at the polytech.
 
+![WAMP icon](images/wamp.PNG) ![MAMP icon](images/mamp.PNG)
+
 ## Learned how to create models(active records) and controllers using the gii module
 Once we had a working site and a database setup with tables, I then needed to find a way to get that data and display it on the website.  This turned out to be easily done with a built in module Gii which allowed to you to generate active records for the models in the database which give you easy access the display and change the data.  Gii also allows you generate controllers, forms, modules, extensions and make CRUD to create, read, update and delete data in each model.
+
+![Image of gii](images/gii.PNG)
 
 ## Created the view to display semesters in a table
 
 I created a new index view for semester which I generated with gii, I then imported the model for semester into the view and pulled all data out of those tables.  Putting all information into a table and and displaying all week start dates with week numbers, skipping over holiday rows and later in the semester I added assignments or holidays displaying beside the given week they occured in.  I later changed this to display each week and date ranges (monday to friday) and a column for each day, displaying if there is a assignment assigned or due on that day or if there is a holiday.
+
+![Image of view code](images/view.PNG)
 
 ## Created a controller to get semesters, assignments and holidays, which is then passed to a view
 
