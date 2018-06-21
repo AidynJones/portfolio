@@ -10,6 +10,8 @@ When we got put into the semester tracker project Elise gave us the files she ha
 
 At the very beginning I tried to download and get Yii to run on my computer however the YiiFramework site pointed at an application called composer which allowed you to download Yii and extensions such as codeception.  The first roadblock I had was when installing composer you needed to point at a current version of PHP and I couldn't find the location of the php.exe file, it turned out I could find this in the WAMP or MAMP folder.  Once I had installed composer I didn't realise that there is no gui and it is all done from the command prompt and needed to be pointed at globally by adding it to the computers PATH.
 
+![Image of composer help](images/composer.PNG)
+
 ## Learned a new framework Yii
 At the beginning of the project we were prompted by our client(Elise) to considering going with Yii as a framework for our software instead of coding it in straight php like the original files we were given from Elise, who had already had an attempt at making a semester tracker.  I spent a couple of weeks delving into Yii beginning by creating my first website powered by the Yii framework using a basic template found on their site, after doing that I spent the rest of the week looking through all the folders and files in the template models, views, controllers etc.
 
