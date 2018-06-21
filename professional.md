@@ -80,5 +80,15 @@ I really liked Jordans bug tracking site because it allowed you to see if you ha
 
 ## Motivating Self and Others
 ### Thoughts
+
+I prefered working on the project while I was at home this was because I could play loud music and wouldn't get distracted by other people talking to me.  The agile principle *"Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done."* applied a lot to me because my group allowed me to do my work in the environment I needed and they trusted me to get the job done.  This also went both ways because I trusted everyone else to get their jobs done and if anyone needed help or an environment that I could help with e.g. at the polytechnic with me looking over their shoulder, which happened a couple of times and everyone tended to get their jobs done on time.
+
+A couple of times throughout the semester I noticed a couple of group members lose motivation and that usually occured when they had a lot of other work to do or the code they were working on didn't work.  If this happened I tried to eleviate their workload on the project while they dealt with their other assignments and when they didn't have so much to worry about they were more motivated from the relief and did a lot more work on the project.  If they got stuck on pieces of code I would have a crack at it and see if I could figure out what was wrong and usually it was just a tiny thing that they had looked over.
+
+Everytime a huge problem got fixed or a big job got finished this would lead to a big boost in morale and motivation throughout the whole group which would in turn lead to more work getting done and so on in a constant motivational circle.  A few times we hit a rut that would cause a drop in group morale but it only took a day or two before we could get over this and continue work on th project.
+
 ### Reflection
+
+In hindsight I think that I could have done a lot more in terms of motivation, I could have participated in the discord chat a bit more and given constructive criticism on the work that people were posting.  
+
 ### Evidence of Learning
