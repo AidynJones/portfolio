@@ -107,3 +107,9 @@ I believe that I tried to motivate others and succeeded a few times when they we
 The motivation I gave myself was pretty good as I tended to have constant motivation throughout the whole semester getting boosted everytime I completed a task.  The only time I felt my motivation drop was during the holidays especially when I got sick and didn't want to leave my bed, and when I was overcame with upcoming exams and assignment deadlines.
 
 ### Evidence of Learning
+
+This is James's code which I tweaked a couple of the methods to get his login working this was a form of motivation because he was getting very annoyed with it and got very happy when it finally got done
+![Image of motivation code](images/motivate.PNG)
+
+This is an image of the amount of issues closed midway through the project as you can see James and Jamie hadn't finished any and Jordan used this to motivate them to get some work done, I then kept bringing this up to them to try and motivate them some more to get some work done which they ended up doing.
+![Image of midway graph](images/TopFixed.PNG)
