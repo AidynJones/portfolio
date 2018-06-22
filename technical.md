@@ -2,6 +2,10 @@
 
 # Technical Proficiency
 
+## Used gitlab as a version control
+
+We used gitlab as our version control for this project, I created the project on my account and gave all the group members master permissions so they could pull and push all their work to it.  This worked really well and we only had a couple of merge problems which were caused by the same person putting up their work twice me included.  I pushed some work from polytech and from home that edited the same file differently but I used Visual Studio Code's inbuilt merge helper to sort through the error and keep the code I wanted and get rid of the code I didn't.
+
 ## Getting Elise's original semester tracker to work on the Kate server
 
 When we got put into the semester tracker project Elise gave us the files she had made in a attempt to make her own, I spent a class uploading these to Kate and creating a database which used the same layout she had on phpmyadmin.  I only managed to get the front page working without any css applied to it, we used this in the beginning to get a feel for what the software should look and feel like(links and information shown).
