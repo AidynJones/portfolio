@@ -23,8 +23,13 @@ At the beginning I was quite confused by Jordans software which allows us to rep
 
 ### Evidence of Learning
 
+An example from our discord chat
 ![Image of discord](images/discord1.PNG)
+
+The text and voice channels in the discord chat
 ![Image of discord](images/discord2.PNG)
+
+Jordans bugtracking site which we used to report bugs and keep track of who was doing what tasks.  What had been finished and still needed to be done.
 ![Image of bugtracker](images/bugtrack.PNG)
 
 ## Leadership
@@ -44,6 +49,7 @@ A couple of times throughout the semester mainly at the start not much work was 
 
 ### Evidence of Learning
 
+I led the communication between on of our clients Adon, here's and email with part of our conversation to organise our first meeting.
 ![Image of email](images/email.PNG)
 
 ## Team Work
@@ -62,6 +68,7 @@ Although we didn't fully complete these agile principles I still feel like our g
 
 ### Evidence of Learning
 
+Here is an image of a graph made at the end of the semester showing how many issues had been fixed by each member of the group, this shows that every member worked together to get the project to where it is currently.
 ![Image of top devs](images/TopDevs.PNG)
 
 ## Time Management
@@ -87,6 +94,7 @@ I really liked Jordans bug tracking site because it allowed you to see if you ha
 
 ### Evidence of Learning
 
+Here is an snippet of the git history which shows constant get pushes from most of the members in our group.
 ![Image of git history](images/git.PNG)
 
 ## Motivating Self and Others
